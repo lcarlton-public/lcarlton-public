@@ -7,7 +7,9 @@ My name is Le Ron, and I'm a experienced Systems Engineer with a track record of
 
 Known for staying relaxed under pressure, and bringing a positive and friendly attitude to challenging situations. I enjoy collaborating with cross-functional teams and thrive in environments where I can contribute my technical skills while learning from others.
 
-Key Skills:
+**Check Out My LinkedIn:** [(https://www.linkedin.com/in/leroncarlton/)]
+
+### Key Skills:
 
 * Enterprise Technologies (Windows & Linux Server, HA, DR)
 * Infrastructure Management (VSphere, SCCM, Ansible)
@@ -17,14 +19,9 @@ Key Skills:
 * Cloud Technologies (Oracle, Azure)
 * Project Management (ITIL, PMI)
 
-Certifications: 
-* Oracle Cloud Infrastructure Certified Foundations Associate - Sep 2024
-* ITIL 4 Foundation Certificate in IT Service Management - June, 2024
-* VMware Certified Professional (VCP) - Desktop Mgmt & Digital Workspace  - 2022, 2023
-* CompTIA - Server+, Credential ID: 10CSVF8N4PR417S8 - January, 2022
-* CompTIA - Security+ CE, Credential ID: 398844069 - June, 2021 - 2027
-* Microsoft Certified: Azure Fundamentals AZ-900 - April 2020
-* Other associate certifications including for Apple,  JAMF Casper
+### Current Certifications: 
+* 2x VCPs, Sec+, Server+, Azure Cloud, ITIL 4: [Le Ron Carlton Credly](https://www.credly.com/users/leron-carlton)
+* Oracle Cloud: [Le Ron Carlton Oracle](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C87A0D493E4EFCA68F0B8640FB7D056BAA8636E9DE70D22E4B41539E1DF5C001)
 
 <!--
 Here are some ideas to get you started:

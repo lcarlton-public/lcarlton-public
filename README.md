@@ -1,11 +1,11 @@
-## Hello! 👋
+## Hi Everyone! 👋
 
 <!--
 **lcarlton-public/lcarlton-public** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-A results-oriented Systems Engineer with a track record of success in dynamic, large-scale environments. I bring experience in cloud technologies, infrastructure management, and end-user computing, gained through roles at major tech companies like VMware and Fortune 500 retailers like LBrands, and more. I'm passionate about using technology to drive innovation and efficiency.
+My name is Le Ron, and I'm a experienced Systems Engineer with a track record of success in dynamic, large-scale environments. I bring experience in cloud technologies, infrastructure management, and end-user computing, gained through roles at major tech companies like VMware and Fortune 500 retailers like LBrands, and more. I'm passionate about using technology to drive innovation and efficiency.
 
-Known for staying relaxed under pressure, I enjoy collaborating with cross-functional teams and thrive in environments where I can contribute my technical skills while learning from others.
+Known for staying relaxed under pressure, and bringing a positive and friendly attitude to challenging situations. I enjoy collaborating with cross-functional teams and thrive in environments where I can contribute my technical skills while learning from others.
 
 Key Skills:
 

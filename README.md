@@ -17,8 +17,8 @@ Known for staying relaxed under pressure, and bringing a positive and friendly a
 
 * Enterprise Technologies (Windows & Linux Server, HA, DR)
 * Infrastructure Management (VSphere, SCCM, Ansible)
-* End-User Computing (Workspace ONE, Azure Virtual, macOS, Windows)
-* Automation & Scripting (Bash, Python, Powershell)
+* End-User Computing (Workspace ONE, Azure VM, macOS, Windows)
+* Automation & Scripting (Bash, Powershell, Python)
 * Security & Compliance (Zero Trust, PCI)
 * Cloud Technologies (Oracle, Azure)
 * Project Management (ITIL, PMI)

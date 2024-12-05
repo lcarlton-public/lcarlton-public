@@ -17,14 +17,14 @@ Known for staying relaxed under pressure, and bringing a positive and friendly a
 
 * Enterprise Technologies (Windows & Linux Server, HA, DR)
 * Infrastructure Management (VSphere, SCCM, Ansible)
-* End-User Computing (Workspace ONE, Azure VM, macOS, Windows)
+* End-User Computing (Workspace ONE, Azure VM, JAMF, MacOS/Windows)
 * Automation & Scripting (Bash, Powershell, Python)
 * Security & Compliance (Zero Trust, PCI)
 * Cloud Technologies (Oracle, Azure)
 * Project Management (ITIL, PMI)
 
 ## Current Certifications: 
-* 2x VCPs, Sec+, Server+, Azure Cloud, ITIL 4: [Le Ron Carlton Credly](https://www.credly.com/users/leron-carlton)
+* 2x VCPs, Security+, Server+, Azure Cloud, Jamf Pro Associate, ITIL 4: [Le Ron Carlton Credly](https://www.credly.com/users/leron-carlton)
 * Oracle Cloud: [Le Ron Carlton Oracle](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C87A0D493E4EFCA68F0B8640FB7D056BAA8636E9DE70D22E4B41539E1DF5C001)
 
 <!--
